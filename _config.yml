@@ -1,0 +1,28 @@
+name: chiuto
+favicon: null
+layout_spectrum: 0.31961164390668273
+typography_spectrum: 0.7559764909092337
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.15827192086726427
+  lightness: 0.7107854394707829
+  saturation: 0.495513585396111
+  rhythmicContrast: 0.03634635009802878
+purpose: []
